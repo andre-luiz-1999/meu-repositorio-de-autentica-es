@@ -1,2 +1,2 @@
-# meu-repositorio-de-autentica-es
-Repositório de testes de autenticação
+# Meu repositório de Autenticações
+Repositório de testes de autenticações.
